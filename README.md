@@ -118,21 +118,6 @@ Full-stack article management platform with JWT auth, nested comments, and 185 a
 </table>
 
 ---
-
-## 📊 Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Liamours&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1a7faa&icon_color=1a7faa&text_color=c9d1d9" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liamours&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1a7faa&text_color=c9d1d9" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Liamours&theme=github-dark-blue&hide_border=true&background=0d1117&ring=1a7faa&fire=1a7faa&currStreakLabel=1a7faa"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a7faa,100:0d1117&height=80&section=footer"/>
 </p>
