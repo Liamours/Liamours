@@ -43,18 +43,11 @@ currently: Fatigue detection (Trans Track) · Deepfake detection research · VLM
   &nbsp;
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="40" height="40" alt="HuggingFace"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/TimDettmers/bitsandbytes/main/docs/source/_static/bitsandbytes_logo.png" width="40" height="40" alt="BitsAndBytes"/>
 </p>
 
 **Computer Vision & Medical AI**
 
 <p>
-  <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Logo-Ultralytics-Empty.png" width="40" height="40" alt="YOLOv8"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/MIC-DKFZ/nnUNet/master/documentation/assets/nnU-Net_logo.png" width="40" height="40" alt="nnU-Net v2"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/google/mediapipe/master/mediapipe_logo.png" width="40" height="40" alt="MediaPipe"/>
-  &nbsp;
   <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo-white.png" width="40" height="40" alt="OpenCV"/>
 </p>
 
@@ -67,7 +60,6 @@ currently: Fatigue detection (Trans Track) · Deepfake detection research · VLM
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
   &nbsp;
-  <img src="https://raw.githubusercontent.com/conda/conda/main/docs/source/_static/conda_logo.svg" width="40" height="40" alt="Conda"/>
 </p>
 
 ---
