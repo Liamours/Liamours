@@ -44,18 +44,26 @@ published : 2 journal papers, 4 conference papers
 
 ## Stack
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="36" height="36" alt="OpenCV"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="36" height="36" alt="Go"/>
+![languages](https://img.shields.io/badge/languages-111111?style=flat-square)
+![Python](https://img.shields.io/badge/Python-1A1A1A?style=flat-square&logo=python&logoColor=3776AB)
+![C++](https://img.shields.io/badge/C++-1A1A1A?style=flat-square&logo=cplusplus&logoColor=00599C)
+![Go](https://img.shields.io/badge/Go-1A1A1A?style=flat-square&logo=go&logoColor=00ADD8)
+![TypeScript](https://img.shields.io/badge/TypeScript-1A1A1A?style=flat-square&logo=typescript&logoColor=3178C6)
+
+![deep learning](https://img.shields.io/badge/deep%20learning-111111?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-1A1A1A?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1A1A1A?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![Hugging Face](https://img.shields.io/badge/Transformers-1A1A1A?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![OpenCV](https://img.shields.io/badge/OpenCV-1A1A1A?style=flat-square&logo=opencv&logoColor=5C3EE8)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1A1A1A?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+
+![engineering](https://img.shields.io/badge/engineering-111111?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-1A1A1A?style=flat-square&logo=docker&logoColor=2496ED)
+![FastAPI](https://img.shields.io/badge/FastAPI-1A1A1A?style=flat-square&logo=fastapi&logoColor=009688)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1A1A?style=flat-square&logo=postgresql&logoColor=4169E1)
+![React](https://img.shields.io/badge/React-1A1A1A?style=flat-square&logo=react&logoColor=61DAFB)
+![pytest](https://img.shields.io/badge/pytest-1A1A1A?style=flat-square&logo=pytest&logoColor=0A9EDC)
 
 **Models** nnU-Net v2, BiomedCLIP, VideoMAE, Whisper, BirdNET, DenseNet121, XGBoost, LightGBM
 
-**Tooling** MediaPipe, librosa, scikit-learn, Conda, pytest, Git, LaTeX
+**Tooling** MediaPipe, librosa, Conda, Git, LaTeX
