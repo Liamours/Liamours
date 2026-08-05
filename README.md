@@ -20,12 +20,12 @@ published : 2 journal papers, 4 conference papers
 
 | Project | Result | Status |
 |---|---|---|
-| [Bone metastasis diagnosis](https://github.com/Liamours/wbbs-nnunetv2)<br/>Hotspot detection, nnU-Net v2 segmentation, radiomics classification | Patient-level AUC 0.956, above EXINI (0.83 to 0.88) and BONENAVI (0.84 to 0.89) | Published |
-| [Bird sound identification](https://github.com/Liamours/Research_Birdsound-Classification_Whisper-Implementation)<br/>MixIT source separation with fine-tuned BirdNET, 219 species | Macro F1 0.554 on the full test set. Macro F1 44.1% above baseline on the endemic and endangered subset | Published |
-| [Driver fatigue detection](https://github.com/TelU-TransTrack-Fatigue-Detection/transtrack-cloud-review)<br/>Facial landmark sequence model on mining fleet dashcams | Test accuracy 0.85, 11% F1 above the company baseline | In production |
-| [Multimodal deepfake detection](https://github.com/Liamours/research-deepfake_classification)<br/>VideoMAE and Whisper encoders, modality-aware mixture of experts, domain-adversarial training | Intra-dataset F1 0.94, cross-dataset F1 0.60 across 223,445 segments | Accepted, ICoDSA 2026 |
-| Telplastina WBBS<br/>Bone scintigraphy diagnostic application, Vue 3 frontend with a Rust inference backend | Segmentation, hotspot detection, and BSI quantification in one deployable clinical tool | In progress |
-| [Retogen](https://github.com/Liamours/aplikasi_berbasis_platform-retogen)<br/>Article management platform with JWT auth and nested comments | 185 automated tests | Complete |
+| [Bone metastasis diagnosis](https://github.com/Liamours/wbbs-nnunetv2)<br/>Hotspot detection, nnU-Net v2 segmentation, radiomics classification | Patient-level AUC 0.956, above EXINI (0.83 to 0.88) and BONENAVI (0.84 to 0.89) | Completed |
+| [Bird sound identification](https://github.com/Liamours/Research_Birdsound-Classification_Whisper-Implementation)<br/>MixIT source separation with fine-tuned BirdNET, 219 species | Macro F1 0.554 on the full test set. Macro F1 44.1% above baseline on the endemic and endangered subset | Completed |
+| [Driver fatigue detection](https://github.com/TelU-TransTrack-Fatigue-Detection/transtrack-cloud-review)<br/>Facial landmark sequence model on mining fleet dashcams | Test accuracy 0.85, 11% F1 above the company baseline | Completed |
+| [Multimodal deepfake detection](https://github.com/Liamours/research-deepfake_classification)<br/>VideoMAE and Whisper encoders, modality-aware mixture of experts, domain-adversarial training | Intra-dataset F1 0.94, cross-dataset F1 0.60 across 223,445 segments | Completed |
+| Telplastina WBBS<br/>Bone scintigraphy diagnostic application, Vue 3 frontend with a Rust inference backend | Segmentation, hotspot detection, and BSI quantification in one deployable clinical tool | In Progress |
+| [Retogen](https://github.com/Liamours/aplikasi_berbasis_platform-retogen)<br/>Article management platform with JWT auth and nested comments | 185 automated tests | Completed |
 
 ---
 
