@@ -1,13 +1,13 @@
 <!-- README.md is generated from TEMPLATE.md by .github/workflows/stats.yml. Edit TEMPLATE.md. -->
-<img src="https://raw.githubusercontent.com/Liamours/Liamours/main/assets/header-dark.svg#gh-dark-mode-only" alt="M. Rifqi Dzaky Azhad, deep learning for medical imaging and bioacoustics, Telkom University"/>
-<img src="https://raw.githubusercontent.com/Liamours/Liamours/main/assets/header-light.svg#gh-light-mode-only" alt="M. Rifqi Dzaky Azhad, deep learning for medical imaging and bioacoustics, Telkom University"/>
+<img src="https://raw.githubusercontent.com/Liamours/Liamours/main/assets/header-dark.svg#gh-dark-mode-only" alt="M. Rifqi Dzaky Azhad, deep learning for medical imaging and industrial AI, Telkom University"/>
+<img src="https://raw.githubusercontent.com/Liamours/Liamours/main/assets/header-light.svg#gh-light-mode-only" alt="M. Rifqi Dzaky Azhad, deep learning for medical imaging and industrial AI, Telkom University"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A1A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifqiazhad0210/)
 [![Email](https://img.shields.io/badge/Email-1A1A1A?style=flat-square&logo=gmail&logoColor=white)](mailto:rifqiazhad21@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-E85D04?style=flat-square&logoColor=white)](https://portofolio-app-puce.vercel.app)
 [![Certificates](https://img.shields.io/badge/Certificates-0E7490?style=flat-square&logoColor=white)](https://t.ly/MPcDg)
 
-S1 Informatika at Telkom University, GPA 4.00 / 4.00, graduating 2027. Two journal papers and four conference papers, mostly on bone scintigraphy and bioacoustics.
+S1 Informatika at Telkom University, GPA 4.00 / 4.00, graduating 2027. Two journal papers and four conference papers across medical imaging, industrial computer vision, and multimodal learning.
 
 Currently building Telplastina WBBS, a bone scintigraphy diagnostic application, and a multi-task chest X-ray platform.
 
