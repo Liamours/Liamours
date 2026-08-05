@@ -18,7 +18,7 @@ $ ls current/
 telplastina-wbbs   deepfake-detection   cxr-multitask
 
 $ activity --last-year
-470 commits, 30 pull requests, 17 repositories
+470 commits, 30 pull requests, 7 repositories
 
 $ ls publications/ | wc -l
 6
