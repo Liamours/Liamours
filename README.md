@@ -11,7 +11,7 @@ Deep learning for medical imaging and bioacoustics. Telkom University, Bandung.
 degree    : S1 Informatika, Telkom University (GPA 4.00 / 4.00, expected 2027)
 focus     : medical imaging AI, bioacoustics, multimodal deep learning
 current   : multi-task chest X-ray platform, deepfake detection, fatigue detection in production
-published : 2 papers, 1 preprint, 1 open dataset
+published : 2 journal papers, 1 conference paper
 ```
 
 ---
@@ -31,12 +31,11 @@ published : 2 papers, 1 preprint, 1 open dataset
 
 ## Publications
 
-| Work | Venue | Year |
-|---|---|---|
-| Deep Learning-Based Segmentation of Whole-Body Bone Scan Images Using nnU-Netv2 | International Journal of Intelligent Engineering and Systems | 2025 |
-| [Deep Learning for Bird Identification Using Sound](https://ieeexplore.ieee.org/document/11233192) | ICITACEE 2025, IEEE Xplore | 2025 |
-| [From Segmentation to Biomarker Quantification](https://ssrn.com/abstract=5187453) | SSRN preprint, under review | 2025 |
-| [Whole-Body Bone Scintigraphy Segmentation Masks](https://zenodo.org/records/20342310) | Zenodo, open access dataset | 2025 |
+| Work | Venue | Year | Artifacts |
+|---|---|---|---|
+| [From Segmentation to Biomarker Quantification](https://doi.org/10.1016/j.knosys.2026.116681) | Knowledge-Based Systems | 2026 | [Code](https://github.com/Liamours/wbbs-biomarker-quantification), [Data](https://zenodo.org/records/21450443) |
+| [Deep Learning-based Segmentation of Whole-body Bone Scan Images Using nnU-Netv2](https://doi.org/10.22266/ijies2026.0731.46) | International Journal of Intelligent Engineering and Systems, 19(7) | 2026 | [Code](https://github.com/Liamours/wbbs-nnunetv2), [Data](https://zenodo.org/records/20342310) |
+| [Deep Learning for Bird Identification Using Sound](https://ieeexplore.ieee.org/document/11233192) | ICITACEE 2025, IEEE Xplore | 2025 | [Code](https://github.com/Liamours/Research_Birdsound-Classification_Whisper-Implementation) |
 
 ---
 
