@@ -1,115 +1,59 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a7faa&height=120&section=header&text=M.%20Rifqi%20Dzaky%20Azhad&fontSize=32&fontColor=ffffff&fontAlignY=65&desc=AI%20%2F%20ML%20Researcher%20%E2%80%A2%20Deep%20Learning%20Engineer&descSize=14&descAlignY=85&descColor=aadcee"/>
-</p>
+# M. Rifqi Dzaky Azhad
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rifqiazhad0210"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:rifqiazhad21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Liamours&style=for-the-badge&color=1a7faa"/>
-</p>
+Deep learning for medical imaging and bioacoustics. Telkom University, Bandung.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A1A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rifqiazhad0210/)
+[![Email](https://img.shields.io/badge/Email-1A1A1A?style=flat-square&logo=gmail&logoColor=white)](mailto:rifqiazhad21@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-E85D04?style=flat-square&logoColor=white)](https://portofolio-app-puce.vercel.app)
+[![Certificates](https://img.shields.io/badge/Certificates-0E7490?style=flat-square&logoColor=white)](https://t.ly/MPcDg)
 
 ```yaml
-name     : M. Rifqi Dzaky Azhad
-degree   : B.Sc. Informatics — Telkom University (GPA 4.0 / 4.0)
-focus    : Medical Imaging AI · Bioacoustics · Multimodal Deep Learning
-currently: Fatigue detection (Trans Track) · Deepfake detection research · VLM for chest X-ray
+degree    : S1 Informatika, Telkom University (GPA 4.00 / 4.00, expected 2027)
+focus     : medical imaging AI, bioacoustics, multimodal deep learning
+current   : multi-task chest X-ray platform, deepfake detection, fatigue detection in production
+published : 2 papers, 1 preprint, 1 open dataset
 ```
 
 ---
 
-## 🔬 Research
+## Projects
 
-| Project | Highlight | Status |
+| Project | Result | Status |
 |---|---|---|
-| **Bone Metastasis Diagnosis** | YOLOv8 + nnU-Net v2 + Radiomics — patient AUC 0.956, beats EXINI & BONENAVI | Published |
-| **Bird Sound Identification** | MixIT + BirdNET v2.4 — macro F1 +44% on endemic/endangered species | Presented @ ICITACEE 2025 |
-| **Multimodal Deepfake Detection** | VideoMAE + Whisper + DANN gated MoE — intra F1 0.94, cross-dataset F1 0.60 | In progress |
-| **VLM Chest X-Ray Explanation** | BiomedCLIP + structured radiology-style text — radiologist usability evaluation | Proposal |
+| [Bone metastasis diagnosis](https://github.com/Liamours/wbbs-nnunetv2)<br/>YOLOv8 hotspot detection, nnU-Net v2 segmentation, radiomics classification | Patient-level AUC 0.956, above EXINI (0.83 to 0.88) and BONENAVI (0.84 to 0.89) | Published |
+| [Bird sound identification](https://github.com/Liamours/Research_Birdsound-Classification_Whisper-Implementation)<br/>MixIT source separation with fine-tuned BirdNET v2.4, 219 species | Macro F1 0.554 on the full test set. Macro F1 44.1% above baseline on the endemic and endangered subset | Published |
+| [Driver fatigue detection](https://github.com/TelU-TransTrack-Fatigue-Detection/transtrack-cloud-review)<br/>Facial landmark sequence model on mining fleet dashcams | Test accuracy 0.85, 11% F1 above the company baseline. [Live demo](https://transtrack-demonstration.streamlit.app) | In production |
+| [Multimodal deepfake detection](https://github.com/Liamours/research-deepfake_classification)<br/>VideoMAE and Whisper encoders, modality-aware mixture of experts, domain-adversarial training | Intra-dataset F1 0.94, cross-dataset F1 0.60 across 223,445 segments | In progress |
+| Telplastina<br/>Five chest X-ray modules: classification, organ segmentation, report generation, VQA, visual grounding | 14 disease categories, FastAPI microservices, web and desktop builds | In progress |
+| [Retogen](https://github.com/Liamours/aplikasi_berbasis_platform-retogen)<br/>Article management platform with JWT auth and nested comments | 185 automated tests | Complete |
 
 ---
 
-## ⚙️ Stack
+## Publications
 
-**Core ML**
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/pytorch/pytorch/master/docs/source/_static/img/pytorch-logo-dark.png" width="40" height="40" alt="PyTorch"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
-  &nbsp;
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" width="40" height="40" alt="HuggingFace"/>
-  &nbsp;
-</p>
-
-**Computer Vision & Medical AI**
-
-<p>
-  <img src="https://raw.githubusercontent.com/opencv/opencv/master/doc/opencv-logo-white.png" width="40" height="40" alt="OpenCV"/>
-</p>
-
-**Engineering**
-
-<p>
-  <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="40" height="40" alt="FastAPI"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  &nbsp;
-</p>
+| Work | Venue | Year |
+|---|---|---|
+| Deep Learning-Based Segmentation of Whole-Body Bone Scan Images Using nnU-Netv2 | International Journal of Intelligent Engineering and Systems | 2025 |
+| [Deep Learning for Bird Identification Using Sound](https://ieeexplore.ieee.org/document/11233192) | ICITACEE 2025, IEEE Xplore | 2025 |
+| [From Segmentation to Biomarker Quantification](https://ssrn.com/abstract=5187453) | SSRN preprint, under review | 2025 |
+| [Whole-Body Bone Scintigraphy Segmentation Masks](https://zenodo.org/records/20342310) | Zenodo, open access dataset | 2025 |
 
 ---
 
-## 📌 Pinned Projects
+## Stack
 
-<table>
-<tr>
-<td width="50%">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" height="36" alt="Python"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36" height="36" alt="PyTorch"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="36" height="36" alt="OpenCV"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="36" height="36" alt="FastAPI"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" height="36" alt="Docker"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36" height="36" alt="PostgreSQL"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36" height="36" alt="React"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="36" height="36" alt="Go"/>
 
-**[research-deepfake_classification](https://github.com/Liamours/research-deepfake_classification)**
+**Models** nnU-Net v2, BiomedCLIP, VideoMAE, Whisper, BirdNET, DenseNet121, XGBoost, LightGBM
 
-Modality-Aware MoE deepfake detector. Cross-modal attention gate routes each clip to AudioSyncExpert or VisualArtifactExpert without knowing manipulation type at test time.
-
-`PyTorch` `VideoMAE` `Whisper` `DANN`
-
-</td>
-<td width="50%">
-
-**[Research_Birdsound-Classification](https://github.com/Liamours/Research_Birdsound-Classification_Whisper-Implementation)**
-
-MixIT + fine-tuned BirdNET for 219 species in Borneo. +44% macro F1 on endemic and endangered species vs. baseline.
-
-`PyTorch` `BirdNET` `MixIT` `librosa`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-**[transtrack-cloud-review](https://github.com/TelU-TransTrack-Fatigue-Detection/transtrack-cloud-review)**
-
-Async fatigue alarm review API for Trans Track MDVR fleet system. Accuracy 0.85, macro F1 0.78 at 10 FPS.
-
-`FastAPI` `OpenCV` `httpx` `pytest`
-
-</td>
-<td width="50%">
-
-**[aplikasi_berbasis_platform-retogen](https://github.com/Liamours/aplikasi_berbasis_platform-retogen)**
-
-Full-stack article management platform with JWT auth, nested comments, and 185 automated tests.
-
-`FastAPI` `React 19` `MongoDB` `pytest`
-
-</td>
-</tr>
-</table>
-
----
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a7faa,100:0d1117&height=80&section=footer"/>
-</p>
+**Tooling** MediaPipe, librosa, scikit-learn, Conda, pytest, Git, LaTeX
