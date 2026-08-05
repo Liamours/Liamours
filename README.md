@@ -35,9 +35,9 @@ published : 2 journal papers, 4 conference papers
 |---|---|---|---|
 | [From Segmentation to Biomarker Quantification](https://doi.org/10.1016/j.knosys.2026.116681) | Knowledge-Based Systems | 2026 | [Code](https://github.com/Liamours/wbbs-biomarker-quantification), [Data](https://zenodo.org/records/21450443) |
 | [Deep Learning-based Segmentation of Whole-body Bone Scan Images Using nnU-Netv2](https://doi.org/10.22266/ijies2026.0731.46) | International Journal of Intelligent Engineering and Systems | 2026 | [Code](https://github.com/Liamours/wbbs-nnunetv2), [Data](https://zenodo.org/records/20342310) |
-| Provider-Aware Contrastive Learning for Accommodation Quality Embeddings in Multi-Provider B2B Travel Platforms | ICoICT, accepted | 2026 | |
-| Gated Mixture-of-Experts Fusion for Multimodal Deepfake Detection Under Mixed Manipulation Scenarios | ICoDSA, accepted | 2026 | [Code](https://github.com/Liamours/research-deepfake_classification) |
-| PACT: Compliance Reporting in PPE Detection Based on Pose-Anchored Body Region Assignment | ICERA, accepted | 2026 | [Code](https://github.com/Liamours/viskom-safety_equipment) |
+| Provider-Aware Contrastive Learning for Accommodation Quality Embeddings in Multi-Provider B2B Travel Platforms | ICoICT | 2026 | |
+| Gated Mixture-of-Experts Fusion for Multimodal Deepfake Detection Under Mixed Manipulation Scenarios | ICoDSA | 2026 | [Code](https://github.com/Liamours/research-deepfake_classification) |
+| PACT: Compliance Reporting in PPE Detection Based on Pose-Anchored Body Region Assignment | ICERA | 2026 | [Code](https://github.com/Liamours/viskom-safety_equipment) |
 | [Deep Learning for Bird Identification Using Sound](https://ieeexplore.ieee.org/document/11233192) | ICITACEE | 2025 | |
 
 ---
