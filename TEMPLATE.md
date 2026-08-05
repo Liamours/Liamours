@@ -7,22 +7,11 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-E85D04?style=flat-square&logoColor=white)](https://portofolio-app-puce.vercel.app)
 [![Certificates](https://img.shields.io/badge/Certificates-0E7490?style=flat-square&logoColor=white)](https://t.ly/MPcDg)
 
-```
-$ whoami
-M. Rifqi Dzaky Azhad, S1 Informatika, Telkom University, GPA 4.00 / 4.00, expected 2027
+S1 Informatika at Telkom University, GPA 4.00 / 4.00, graduating 2027. Two journal papers and four conference papers, mostly on bone scintigraphy and bioacoustics.
 
-$ cat focus.txt
-medical imaging AI, bioacoustics, multimodal deep learning
+Currently building Telplastina WBBS, a bone scintigraphy diagnostic application, and a multi-task chest X-ray platform.
 
-$ ls current/
-telplastina-wbbs   deepfake-detection   cxr-multitask
-
-$ activity --last-year
-{{COMMITS}} commits, {{PRS}} pull requests, {{CONTRIBUTED}} repositories
-
-$ ls publications/ | wc -l
-6
-```
+In the last year I pushed {{COMMITS}} commits and opened {{PRS}} pull requests across {{CONTRIBUTED}} public repositories.
 
 ---
 
