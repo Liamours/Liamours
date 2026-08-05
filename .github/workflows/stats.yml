@@ -1,0 +1,64 @@
+name: stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - TEMPLATE.md
+      - .github/workflows/stats.yml
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch stats
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh api graphql -f login=${{ github.repository_owner }} -f query='
+            query($login:String!){
+              user(login:$login){
+                repositories(ownerAffiliations:OWNER,isFork:false,first:100,privacy:PUBLIC){totalCount}
+                contributionsCollection{totalCommitContributions totalPullRequestContributions}
+                repositoriesContributedTo(contributionTypes:[COMMIT,PULL_REQUEST]){totalCount}
+              }
+            }' > stats.json
+
+      - name: Render README
+        run: |
+          node -e '
+            const fs = require("fs");
+            const u = JSON.parse(fs.readFileSync("stats.json", "utf8")).data.user;
+            const vals = {
+              COMMITS: u.contributionsCollection.totalCommitContributions,
+              PRS: u.contributionsCollection.totalPullRequestContributions,
+              CONTRIBUTED: u.repositoriesContributedTo.totalCount,
+              REPOS: u.repositories.totalCount,
+            };
+            let out = fs.readFileSync("TEMPLATE.md", "utf8");
+            for (const [k, v] of Object.entries(vals)) out = out.split("{{" + k + "}}").join(v);
+            const left = out.match(/{{[A-Z_]+}}/g);
+            if (left) { console.error("unfilled placeholders: " + left.join(", ")); process.exit(1); }
+            fs.writeFileSync("README.md", out);
+          '
+          rm stats.json
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --quiet --cached; then
+            echo "no change"
+          else
+            git commit -m "Update activity stats"
+            git push
+          fi
