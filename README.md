@@ -7,7 +7,7 @@ Deep learning for medical imaging and bioacoustics. Telkom University, Bandung.
 [![Portfolio](https://img.shields.io/badge/Portfolio-E85D04?style=flat-square&logoColor=white)](https://portofolio-app-puce.vercel.app)
 [![Certificates](https://img.shields.io/badge/Certificates-0E7490?style=flat-square&logoColor=white)](https://t.ly/MPcDg)
 
-```yaml
+```
 degree    : S1 Informatika, Telkom University (GPA 4.00 / 4.00, expected 2027)
 focus     : medical imaging AI, bioacoustics, multimodal deep learning
 current   : multi-task chest X-ray platform, deepfake detection, fatigue detection in production
