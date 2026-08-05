@@ -11,7 +11,7 @@ Deep learning for medical imaging and bioacoustics. Telkom University, Bandung.
 degree    : S1 Informatika, Telkom University (GPA 4.00 / 4.00, expected 2027)
 focus     : medical imaging AI, bioacoustics, multimodal deep learning
 current   : multi-task chest X-ray platform, deepfake detection, fatigue detection in production
-published : 2 journal papers, 1 conference paper
+published : 2 journal papers, 4 conference papers
 ```
 
 ---
@@ -23,7 +23,7 @@ published : 2 journal papers, 1 conference paper
 | [Bone metastasis diagnosis](https://github.com/Liamours/wbbs-nnunetv2)<br/>YOLOv8 hotspot detection, nnU-Net v2 segmentation, radiomics classification | Patient-level AUC 0.956, above EXINI (0.83 to 0.88) and BONENAVI (0.84 to 0.89) | Published |
 | [Bird sound identification](https://github.com/Liamours/Research_Birdsound-Classification_Whisper-Implementation)<br/>MixIT source separation with fine-tuned BirdNET v2.4, 219 species | Macro F1 0.554 on the full test set. Macro F1 44.1% above baseline on the endemic and endangered subset | Published |
 | [Driver fatigue detection](https://github.com/TelU-TransTrack-Fatigue-Detection/transtrack-cloud-review)<br/>Facial landmark sequence model on mining fleet dashcams | Test accuracy 0.85, 11% F1 above the company baseline. [Live demo](https://transtrack-demonstration.streamlit.app) | In production |
-| [Multimodal deepfake detection](https://github.com/Liamours/research-deepfake_classification)<br/>VideoMAE and Whisper encoders, modality-aware mixture of experts, domain-adversarial training | Intra-dataset F1 0.94, cross-dataset F1 0.60 across 223,445 segments | In progress |
+| [Multimodal deepfake detection](https://github.com/Liamours/research-deepfake_classification)<br/>VideoMAE and Whisper encoders, modality-aware mixture of experts, domain-adversarial training | Intra-dataset F1 0.94, cross-dataset F1 0.60 across 223,445 segments | Accepted, ICoDSA 2026 |
 | Telplastina<br/>Five chest X-ray modules: classification, organ segmentation, report generation, VQA, visual grounding | 14 disease categories, FastAPI microservices, web and desktop builds | In progress |
 | [Retogen](https://github.com/Liamours/aplikasi_berbasis_platform-retogen)<br/>Article management platform with JWT auth and nested comments | 185 automated tests | Complete |
 
@@ -35,6 +35,9 @@ published : 2 journal papers, 1 conference paper
 |---|---|---|---|
 | [From Segmentation to Biomarker Quantification](https://doi.org/10.1016/j.knosys.2026.116681) | Knowledge-Based Systems | 2026 | [Code](https://github.com/Liamours/wbbs-biomarker-quantification), [Data](https://zenodo.org/records/21450443) |
 | [Deep Learning-based Segmentation of Whole-body Bone Scan Images Using nnU-Netv2](https://doi.org/10.22266/ijies2026.0731.46) | International Journal of Intelligent Engineering and Systems, 19(7) | 2026 | [Code](https://github.com/Liamours/wbbs-nnunetv2), [Data](https://zenodo.org/records/20342310) |
+| Provider-Aware Contrastive Learning for Accommodation Quality Embeddings in Multi-Provider B2B Travel Platforms | ICoICT 2026 Challenge Track, accepted | 2026 | |
+| Gated Mixture-of-Experts Fusion for Multimodal Deepfake Detection Under Mixed Manipulation Scenarios | ICoDSA 2026, accepted | 2026 | [Code](https://github.com/Liamours/research-deepfake_classification) |
+| PACT: Compliance Reporting in PPE Detection Based on Pose-Anchored Body Region Assignment | 5th ICERA 2026, accepted | 2026 | [Code](https://github.com/Liamours/viskom-safety_equipment) |
 | [Deep Learning for Bird Identification Using Sound](https://ieeexplore.ieee.org/document/11233192) | ICITACEE 2025, IEEE Xplore | 2025 | |
 
 ---
